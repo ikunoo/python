@@ -8,11 +8,12 @@
 # arithmetic +-* 
 # % - modulo; the rest
 # / true division; always float
-# // divitision; always int
+# // division; always int
 # print(min(arg1,arg2,arg3,argn)); print(max(arg1,arg2,arg3,argn)); print(abs(absolute number; -32 = 32))
 # int/float can be called as functions and display respectively their numbers full/.5
 #help(insert function)
 #Functions: 
+#weee
 def least_difference(a, b, c):
     """This is an example of a docstring
     Return Return the smallest difference between any two numbers
